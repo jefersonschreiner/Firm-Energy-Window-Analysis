@@ -1,0 +1,16 @@
+# Ignorar pastas de dados e resultados
+dados/
+resultado/
+resultados/
+
+# Ignorar arquivos temporários do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pycache/
+
+# Ignorar arquivos de ambiente
+.env
+venv/
+env/
